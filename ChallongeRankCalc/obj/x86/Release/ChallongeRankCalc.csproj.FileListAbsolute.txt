@@ -1,0 +1,6 @@
+C:\Users\Tim\AppData\Local\Temporary Projects\ChallongeRankCalc\bin\Release\ChallongeRankCalc.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\ChallongeRankCalc\bin\Release\ChallongeRankCalc.pdb
+C:\Users\Tim\AppData\Local\Temporary Projects\ChallongeRankCalc\obj\x86\Release\ChallongeRankCalc.exe
+C:\Users\Tim\AppData\Local\Temporary Projects\ChallongeRankCalc\obj\x86\Release\ChallongeRankCalc.pdb
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\ChallongeRankCalc\ChallongeRankCalc\obj\x86\Release\ChallongeRankCalc.exe
+G:\Users\Tim\Documents\Visual Studio 2010\Projects\ChallongeRankCalc\ChallongeRankCalc\obj\x86\Release\ChallongeRankCalc.pdb
